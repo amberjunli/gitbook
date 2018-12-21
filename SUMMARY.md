@@ -27,4 +27,7 @@
     * [模块](./file/webpack9.md)
     * [模块解析](./file/webpack10.md)
     * [依赖图](./file/webpack11.md)
+* [es6]
+    * [对象的新增方法](./file/es6_1.md)
+    * [Proxy](./file/es6_2.md)
 
