@@ -16,6 +16,10 @@
     * [发布-订阅模式](./file/module5.md)
     * [命令模式](./file/module6.md)
     * [组合模式](./file/module7.md)
+    * [模板方法模式](./file/module8.md)
+    * [享元模式](./file/module9.md)
+    * [装饰者模式](./file/module10.md)
+    * [单一职责原则](./file/module11.md)
 * [webpack]
     * [概念](./file/webpack2.md)
     * [入口起点](./file/webpack3.md)
@@ -30,4 +34,6 @@
 * [es6]
     * [对象的新增方法](./file/es6_1.md)
     * [Proxy](./file/es6_2.md)
+* [移动无限加载]
+    * [移动web滚动](./file/move_1.md)
 
